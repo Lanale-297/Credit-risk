@@ -1,3 +1,3 @@
 # Credit-risk
-Credit risk data analyst in Python and R
+Credit risk data analyst in Python (Gini curve) and R (AUC)
 
