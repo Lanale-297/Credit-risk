@@ -1,2 +1,3 @@
 # Credit-risk
-Credit risk prediction
+Credit risk data analyst in Python and R
+
