@@ -27,7 +27,7 @@ Both models struggle with predicting instances of class 1 (default), with low pr
 The macro avg and weighted avg metrics are comparable between the two models, reflecting the similar overall performance.
 Gini coeffience is applied in this case as this is imbalance dataset. Based on the result the logistic model had slight higher True Positive Rate. 
 
-#**The answer **
+# **The answer **
 Key reasons for predicting loan default include:
 
 Income-to-Ratio (inc_ratio): Customers with a higher income-to-ratio are more likely to default on their loans.
