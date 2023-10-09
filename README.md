@@ -4,7 +4,7 @@ Overview:
 Lloyds Banking Group is launching a new loans product and needs to determine which customers they should lend to or not. They have approached you to design this process. To ensure they are lending responsibly, it is important that the process is easy to understand and fair/treats customers fairly.
 Step Up Challenge:
 Lloyds Banking Group have sent you a dataset of customers who had a loan, the status of the product (default or not), as well as other credit and product information. Can you predict which customers will default on their loan and explain the key reasons why?
-**In Project**
+# **In Project**
 EDA for understand customer behaviour
 Removed MCAR data and Balanced the annual income distribution 
 Use Grouped Bar Chart with Overlaid Line to reduce the impact of outliers and show default rate in difference group income. 
@@ -12,7 +12,9 @@ Turning the loan status to default rate which will be showed as a line graph and
 Calculated the customer affordability rate by deviding the customer income and loan amount
 After using EDA as a feature selection, the logistic regression and random forest regression were built to hand classification dataset. 
 Use Confusion matrix, ROC, AUC and gini coeffience to evaluate. 
+
 Confusion matrix show
+
 **  4312 instances were correctly predicted as "no default" (True Negatives).
 ** 18 instances were correctly predicted as "default" (True Positives).
 ** 14 instances were predicted as "default," but they actually did not default (False Positives).
